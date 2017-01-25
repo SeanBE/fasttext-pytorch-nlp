@@ -1,2 +1,4 @@
 *.tsv
 *.txt
+*.bin
+*.vec
